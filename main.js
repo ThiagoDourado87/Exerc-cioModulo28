@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const username = "ThiagoDourado87"; /
+    const username = "ThiagoDourado87"; 
 
 
     fetch(`https://api.github.com/users/${username}`)
